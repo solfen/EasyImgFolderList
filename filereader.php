@@ -1,4 +1,9 @@
+
 <?php
+/*
+    @author Maxime Lo Re (delete this line or change the name if you want to act like you did this)
+*/
+    
 //$path the folder where your images and subfolder of images are
 //$pattern the regex all your images must match
 //$callback the function that will be called for each file found
